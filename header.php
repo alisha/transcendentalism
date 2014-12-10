@@ -26,7 +26,16 @@
 
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li><a href="index.php">Intro</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Overview <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/#purpose">Purpose</a></li>
+                                <li><a href="/#principles">Principles</a></li>
+                                <li><a href="/#before">Before</a></li>
+                                <li><a href="/#inspiration">Inspiration</a></li>
+                                <li><a href="/#insights">Insights gained</a></li>
+                            </ul>
+                        </li>
                         <li><a href="day1.php">Day 1</a></li>
                         <li><a href="day2.php">Day 2</a></li>
                         <li><a href="day3.php">Day 3</a></li>
