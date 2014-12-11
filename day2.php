@@ -30,8 +30,8 @@
     $photos = ["0426", "0427", "0431", "0434", "0442", "0443", "0447", "0448", "0459", "0467", "0473", "0476", "0479", "0481", "0486", "0490", "0500", "0509", "0512", "0515", "0521", "0528"];
 
     foreach ($photos as $name) {
-        echo "<div class=\"col-md-3\">
-                <a href=\"#photos\" class=\"thumbnail\">
+        echo "<div class=\"col-md-3\" id=\"photo" . $name . "\">
+                <a href=\"#photo" . $name . "\" class=\"thumbnail\">
                 <img src=\"images/day2/DSCN" . $name . ".JPG\">
                 </a>
             </div>";

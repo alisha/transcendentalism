@@ -71,4 +71,11 @@
 <p>In the <a href="#before">before section</a>, I mentioned how I was living a fast life and I didn't spend much time outside. Looking back, I think these two are related. When I was inside, I only focused on work and getting things done, but when I forced myself to go outside, I was able to focus on something completely different and take a step back from a busy schedule.</p>
 <p>The meditation and photography encouraged introspection and awareness of both the self and surroundings. I think they worked to complement each other, and helped me slow down my life. I was happy to ensure that there was a block of time for things I enjoyed.</p>
 
+<h2 id="more">More Transcendentalism</h2>
+<p>These are some things that remind me of Transcendentalism, and were used throughout the project to fully immerse myself in the philosophy.</p>
+
+<h3>Music</h3>
+<p>I think Thoreau and Emerson would have been fans of ambient music because it's very calming and good for focusing on oneself. In addition, many songs feature sounds from nature. I listened to the "Deep Focus" playlist on Spotify.</p>
+<iframe src="https://embed.spotify.com/?uri=http://open.spotify.com/user/spotify/playlist/2ujjMpFriZ2nayLmrD1Jgl" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
 <?php include 'footer.php' ?>
